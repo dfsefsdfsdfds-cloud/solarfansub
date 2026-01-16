@@ -1,0 +1,13 @@
+:root {
+  --primary-yellow: #FFD54F;
+  --bg-black: #000000;
+  --text-white: #FFFFFF;
+}
+body {
+  background: var(--bg-black);
+  color: var(--text-white);
+}
+button {
+  background: var(--primary-yellow);
+  color: var(--bg-black);
+}
